@@ -16,6 +16,8 @@ Please submit your own nested route under the examples namespace. To do this:
   * Write up a quick description of the form directly on the template
 3. Submit a PR
 
+You can see the current form examples in action [here](http://blimmer.github.io/ember-form-examples/).
+
 ### Other considerations
 If there are other situations we should consider, please open an issue for discussion.
 
