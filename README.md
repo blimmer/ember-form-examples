@@ -1,7 +1,23 @@
-# Ember-form-examples
+# ember-form-examples
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+The goal of this project is to enumerate a list of form scenarios in order
+to enumerate the issues a form library would ideally solve.
+
+[related ember-cp-validations issue](https://github.com/offirgolan/ember-cp-validations/issues/23)
+
+## Contributing
+
+### Examples
+Please submit your own nested route under the examples namespace. To do this:
+
+1. Fork the repo
+2. `ember g route example/<your-example-name>`
+  * Make sure your example is scoped to your route
+  * Write up a quick description of the form directly on the template
+3. Submit a PR
+
+### Other considerations
+If there are other situations we should consider, please open an issue for discussion.
 
 ## Prerequisites
 
@@ -50,4 +66,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
