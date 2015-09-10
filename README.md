@@ -1,7 +1,7 @@
 # ember-form-examples
 
 The goal of this project is to enumerate a list of form scenarios in order
-to enumerate the issues a form library would ideally solve.
+to fully discover the issues a form library would ideally solve.
 
 [related ember-cp-validations issue](https://github.com/offirgolan/ember-cp-validations/issues/23)
 
